@@ -1,3 +1,5 @@
+//This is a comment that I want to push to a branch
+
 function calculate15Tip () {
     const totalAmount = parseFloat(document.getElementById('tip-input').value)
     const tipAmount = totalAmount * .15
